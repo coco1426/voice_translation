@@ -86,6 +86,4 @@ python voice_translation_test.py
 
 ## 作者联系方式：
 
-- VX：Accddvva
-- QQ：1144968929
-
+- VX：Amy596185
